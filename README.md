@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PySpark, Airflow,Apache Pinot, ClickHouse,**
 
-- 💬 Ask me about **Django, Flask, RestAPI, Custom ML/AI Model**
+- 💬 Ask me about **Django, FastAPI, RestAPI, Custom ML/AI Model**
 
 - 📫 How to reach me **ayush261bhardwaj@gmail.com**
 
